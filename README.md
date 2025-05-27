@@ -1,7 +1,6 @@
 👋 Hello, I'm Vlad!
-<div align="center">
-  <h2>☕ Java Developer</h2>
-  <p>Passionate about building robust, scalable applications</p>
+<div>
+  <p>☕ Java Developer. Passionate about building robust, scalable applications.</p>
 </div>
 🤝 Connect With Me
 <p align="left">
@@ -31,8 +30,3 @@
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
-
-<div align="center">
-  <p>💡 Always learning, always coding, always improving</p>
-  <p>📫 Feel free to reach out for collaboration opportunities!</p>
-</div>

@@ -1,14 +1,11 @@
-👋 Hello, I'm Vlad!
-<div>
-  <p>☕ Java Developer. Passionate about building robust, scalable applications.</p>
-</div>
-🤝 Connect With Me
+### 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/vlad-bogdantsev-7897662b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-🛠️ Tech Stack   🌱 Frameworks & Libraries   🗄️ Databases
+
+### 🛠️ Tech Stack   🌱 Frameworks & Libraries   🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -19,7 +16,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway"/>
 </p>
-🔧 Development Tools ☁️ DevOps & Deployment
+
+### 🔧 Development Tools ☁️ DevOps & Deployment
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
